@@ -53,3 +53,6 @@ Build静态资源文件
     $ gulp server
 
 
+插件安装Compass Normalize.css
+
+    $ gem install compass-normalize
